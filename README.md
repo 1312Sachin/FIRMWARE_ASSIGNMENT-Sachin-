@@ -1,7 +1,6 @@
 # FIRMWARE_ASSIGNMENT-Sachin-
 
 #include <TimerOne.h>
-
 const int sensorPin = A0; 
 const int ledPin = 13;    
 volatile bool ledState = false;
